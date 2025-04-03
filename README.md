@@ -21,3 +21,7 @@ Die Ergebnisse werden übersichtlich in einem Fenster angezeigt.
 - Benötigte Python-Pakete:
   ```bash
   pip install psutil wmi
+
+## 📌 UML Use Case Diagram
+
+![UML Use Case](useCase.png)
