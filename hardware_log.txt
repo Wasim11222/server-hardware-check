@@ -2527,3 +2527,113 @@
 📡 Netzwerk:
    Gesendet: 147 MB
    Empfangen: 306 MB
+
+[2025-04-10 12:16:00]
+🧠 CPU-Info:
+   Cores: 8, Threads: 16
+   Frequenz: 1802.00 MHz
+   Auslastung: 12.7%
+🌬️ CPU-Temperatur: 45.2°C
+
+💾 RAM:
+   Gesamt: 15775 MB
+   Verfügbar: 3125 MB
+   Nutzung: 80.2%
+
+💽 Speicher (SSD/HDD):
+   Gesamt: 475 GB
+   Genutzt: 445 GB
+   Frei: 30 GB
+   Auslastung: 93.6%
+
+📡 Netzwerk:
+   Gesendet: 15 MB
+   Empfangen: 83 MB
+
+[2025-04-10 15:38:26]
+🧠 CPU-Info:
+   Cores: 8, Threads: 16
+   Frequenz: 1990.00 MHz
+   Auslastung: 3.8%
+🌬️ CPU-Temperatur: 86.0°C
+
+💾 RAM:
+   Gesamt: 15775 MB
+   Verfügbar: 3517 MB
+   Nutzung: 77.7%
+
+💽 Speicher (SSD/HDD):
+   Gesamt: 475 GB
+   Genutzt: 447 GB
+   Frei: 28 GB
+   Auslastung: 94.0%
+
+📡 Netzwerk:
+   Gesendet: 5 MB
+   Empfangen: 11 MB
+
+[2025-04-10 15:38:41]
+🧠 CPU-Info:
+   Cores: 8, Threads: 16
+   Frequenz: 1990.00 MHz
+   Auslastung: 5.4%
+🌬️ CPU-Temperatur: 85.8°C
+
+💾 RAM:
+   Gesamt: 15775 MB
+   Verfügbar: 3526 MB
+   Nutzung: 77.6%
+
+💽 Speicher (SSD/HDD):
+   Gesamt: 475 GB
+   Genutzt: 447 GB
+   Frei: 28 GB
+   Auslastung: 94.0%
+
+📡 Netzwerk:
+   Gesendet: 5 MB
+   Empfangen: 11 MB
+
+[2025-04-10 15:38:45]
+🧠 CPU-Info:
+   Cores: 8, Threads: 16
+   Frequenz: 1990.00 MHz
+   Auslastung: 9.6%
+🌬️ CPU-Temperatur: 88.6°C
+
+💾 RAM:
+   Gesamt: 15775 MB
+   Verfügbar: 3493 MB
+   Nutzung: 77.9%
+
+💽 Speicher (SSD/HDD):
+   Gesamt: 475 GB
+   Genutzt: 447 GB
+   Frei: 28 GB
+   Auslastung: 94.0%
+
+📡 Netzwerk:
+   Gesendet: 5 MB
+   Empfangen: 11 MB
+
+[2025-04-10 15:49:09]
+🧠 CPU-Info:
+   Cores: 8, Threads: 16
+   Frequenz: 1990.00 MHz
+   Auslastung: 7.9%
+🌬️ CPU-Temperatur: 84.5°C
+
+💾 RAM:
+   Gesamt: 15775 MB
+   Verfügbar: 3228 MB
+   Nutzung: 79.5%
+
+💽 Speicher (SSD/HDD):
+   Gesamt: 475 GB
+   Genutzt: 448 GB
+   Frei: 26 GB
+   Auslastung: 94.4%
+
+📡 Netzwerk:
+   Gesendet: 51 MB
+   Empfangen: 62 MB
