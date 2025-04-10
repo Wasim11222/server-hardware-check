@@ -20,8 +20,7 @@ Die Ergebnisse werden übersichtlich in einem Fenster angezeigt.
 - Python 3.8 oder höher
 - Benötigte Python-Pakete:
   ```bash
-  pip install wmi
-  pip install psutil
+  pip install psutil wmi
 
 ## 📌 UML Use Case Diagram
 
